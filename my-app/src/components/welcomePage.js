@@ -20,7 +20,7 @@ padding: 2%;
         <div className="intro">
         <h2>Hello! My name is Andre Freeman</h2>
         <h1>I am a Web Developer</h1>
-        <p>Full Stack Web Developer Student at Lambda School. My skills include designing and creating websites, apps, and more...</p>
+        <p>Full Stack Software Developer Student at Lambda School. My skills include designing and creating websites, apps, and more...</p>
         </div>
         <StyledImg src={headshot} alt="Logo" />
         </StyledHeader>
